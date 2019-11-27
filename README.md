@@ -5,7 +5,7 @@ Hassan Mohdi
 Yakubu Adeyemi Oseni
 Kristoffer Rath Hansen
 UFO Blog Entry
-                               Deadline! Thu. Nov. 28th 8:30 am
+                              ## Deadline! Thu. Nov. 28th 8:30 am
 Abstract
 This report examines the difficulty of writing proper integration tests. In the report, we will go through sub-questions based on our main problem where we will among other explain some examples of how integration is done and state our thoughts.
 We will then later explain some theories on integration test in order to have a better understanding of how those kinds of tests are done.
@@ -15,7 +15,7 @@ Our solution achieve us having an understanding on why it's hard to implement in
 The report finishes off with explaining our solution for those integration tests we made and how they were made
 
 
-Introduction
+### Introduction
 We have in Large system been giving the assignment on creating a system for a Hotel chain in which we have to create a system where a backend part talks to our frontend part via a contract where both systems are written in the same language.
 Where for the backend we have created the project as a wcf project not necessarily any reason  as to why other than it is properly easiest have it written in C# So for the front part we created it in ASP.NET because firstly as mentioned before the demand from the assignment was that both frontend and backend had to be written in the same language and secondly it is the newest technology from the .NET world which is a lot easier having it integrated and talking to  our backing system. 
 By having these two systems talking to each other we use a contract.
