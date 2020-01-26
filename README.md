@@ -1,20 +1,24 @@
-#  How to build calculator?
-
-#### Blog link: https://github.com/niichtsShaiaz/UFO/tree/master/Exam
-# Author: Yakubu Adeyemi Oseni
+#  Author: Yakubu Adeyemi Oseni
 # Email: cph-yo10@cphbusiness.dk
 
-### Taking from the blog:
-"Software architecture is hard to pick. The market today puts a lot of emphasis on scalability and uptime. By knowing which architecture you should use you can save a lot of time and make a better application. It can take more time to set up the right environment for your development, but it will help seperating the different business functionalities from eachother and therefore make it easier for a new developer to add new features".
+#  How to build calculator?
+>  Blog link: https://github.com/niichtsShaiaz/UFO/tree/master/Exam
+ # Taking from the blog:
+>"Software architecture is hard to pick. The market today puts a lot of emphasis on scalability and uptime. By knowing which architecture you should use you can save a lot of time and make a better application. It can take more time to set up the right environment for your development, but it will help seperating the different business functionalities from eachother and therefore make it easier for a new developer to add new features".
 
-### The challenges of being able to choose between different software architecture could be difficult for a developer when building complex applications, it also depends on the experience of the developer involved. I  fully understand and agree with that, it could be hard or difficult for a new developer to pick between Software architecture (Monolithic Architecture/Microservices Architecture) that can scale up.
+The challenges of being able to choose between different software architecture could be difficult for a developer when building complex applications, it also depends on the experience of the developer involved. I  fully understand and agree with that, it could be hard or difficult for a new developer to pick between Software architecture (Monolithic Architecture/Microservices Architecture) that can scale up.
 
-### There are a few recommended ways to improve this blog. Let us start by referring to one of the questions the blog neglect to answer.
+There are a few recommended ways to improve this blog. Let us start by referring to one of the questions the blog neglect to answer.
 
-### What is microservices and monolithic?
+>What is microservices and monolithic?
 
-A better approach could be to answer this question before proceeding to other tasks. Probably it's a result of an assumption by the author that all his/her audience know the definition, perhaps tell us the advantages and disadvantages when choosing between either of the architecture, how to choose between them and how to migrate from monolithic to a microservice Ecosystem. Please refer to this link to know about the question stated above.
-https://appinventiv.com/blog/microservices-vs-monolithic-architecture/#A4
+>https://appinventiv.com/blog/microservices-vs-monolithic-architecture/#A4
+
+A better approach could be to answer this question before proceeding to other tasks. Probably it's a result of an assumption by the author that all his/her audience know the definition.
+
+Some of these can also be include:
+ - The advantages and disadvantages when choosing between either of the architecture
+ - how to choose between them and how to migrate from monolithic to a microservice Ecosystem.
 
 The reason why it is relevant for the author to consider a different suggested or proven approach to improve his blog entry by taking heed to advise by various authors or practitioners that suggest starting first from the monolith approach and then the others which also recommend not to start from monolith if your goal is a microservices architecture. Nevertheless, It is extremely important to understand Monolithic architecture, after all, it is the basis for microservices architecture whereby each service itself is implemented according to monolithic architecture. The Microservices architecture pattern could be a better choice for the complex, evolving application. In reality, the microservices approach is all about handling a complex system, but to do so the approach introduces its own set of complexities and implementation challenges.
 
@@ -52,24 +56,3 @@ The book and other references included in this post could be a good starting for
 
 
 
-
-
-
-
-
-
-
-
-
-References:
-https://articles.microservices.com/monolithic-vs-microservices-architecture-5c4848858f59
-
-https://appinventiv.com/blog/microservices-vs-monolithic-architecture/#A4
-
-Microservices Practitioner Guide by Gopala Krishna Behara, Tirumala Khandrika
-https://www.barnesandnoble.com/w/microservices-practitioner-guide-gopala-krishna-behara/1129647523
-
-https://www.n-ix.com/microservices-vs-monolith-which-architecture-best-choice-your-business/
-
-https://docs.broadcom.com/docs/microservice-architecture-aligning-principles-practices-and-culture
-https://www.sciencedirect.com/topics/computer-science/monolithic-application
